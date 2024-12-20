@@ -2,10 +2,9 @@
 
 Todo-App made using MERN stack and TypeScript 
 
-![Todo-App-Home](https://github.com/pratyanch-github/)
 
-![Todo-App-Home-Logout](https://github.com/pratyanch-github/)
+![alt text](image.png)
 
-![Todo-App-SignUp(password-hidden)](https://github.com/pratyanch-github/)
+![alt text](image-2.png)
 
-![Todo-App-SignUp(password-display)](https://github.com/pratyanch-github/)
+![alt text](image-1.png)
